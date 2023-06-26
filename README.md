@@ -1,11 +1,11 @@
 # Data-Manipulation-and-Visualization
 
 Il progetto è stato realizzato con un notebook jupyter ed è strutturato in più fasi che seguono questa logica: 
-Discovery (identificazione del problema e degli obiettivi)
-Data selection
-Data cleaning
-Data exploration
-Data transformation
+Discovery (identificazione del problema e degli obiettivi),
+Data selection,
+Data cleaning,
+Data exploration,
+Data transformation,
 Data visualization.
 
 L'analisi si svolgerà principalmente su un dataset del Washigton Post (in continuo aggiornamento) creato a partire dal gennaio 2015
